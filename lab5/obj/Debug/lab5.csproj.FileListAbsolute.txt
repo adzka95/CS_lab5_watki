@@ -1,0 +1,9 @@
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\PT\lab5\bin\Debug\lab5.exe.config
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\PT\lab5\bin\Debug\lab5.exe
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\PT\lab5\bin\Debug\lab5.pdb
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\PT\lab5\obj\Debug\lab5.csprojResolveAssemblyReference.cache
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\PT\lab5\obj\Debug\lab5.Form1.resources
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\PT\lab5\obj\Debug\lab5.Properties.Resources.resources
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\PT\lab5\obj\Debug\lab5.csproj.GenerateResource.Cache
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\PT\lab5\obj\Debug\lab5.exe
+C:\Users\Ada\Documents\Visual Studio 2012\Projects\PT\lab5\obj\Debug\lab5.pdb
